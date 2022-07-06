@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Old+Standard+TT&display=swap');
+.one
+{
+    overflow: auto;
+    background-image: url(../images/cover.jpg);
+    text-align: center;
+    background-size: cover;
+    height: 100vh;
+    background-position: center center ;
+    color: white;
+
+    padding: 40px 0;
+}
+.section{
+    margin: 7rem;
+}
+.content
+{
+    padding: 7rem;
+}
+.bt{
+    margin-top: 7rem;
+}
+.btn{
+    color: gray;
+    font-size: larger;
+    font-family: 'Old Standard TT', serif;
+}
+h1{
+    font-family: 'Old Standard TT', serif;
+    margin: 2rem;
+}
+.p1
+{
+    color: #cccccc;
+    font-size: 24px;
+}
+/*  */
+.two
+{
+    margin: 40px;
+    overflow: auto;
+}
+.d2img
+{
+    width: 50%;
+    float: left;
+}
+.imgd2
+{
+    width: 100%;
+}
+.d2content
+{
+    float: left;
+    width: 50%;
+}
+.h2d2
+{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.p2d2
+{
+    text-align: center;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+.clear
+{
+    clear: both;
+}
+.uld2
+{
+list-style: none;
+}
+.lid2
+{
+    padding: 5px;
+    /* position: relative; */
+}
+/* i
+{
+    background-color: black;
+    width: 20px;
+    height: 20px;
+    /* position: absolute; */
+    /* justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin-left: -20px;
+} */
+/*  */
+.three
+{
+    background-color: #eee;
+    text-align: center;
+    margin: 40px 0;
+    overflow: auto;
+    padding: 40px;
+}
+.d3content
+{
+    width: 50%;
+    float: left;
+}
+.imgd3
+{
+    width: 50%;
+    float: left;
+}
+.imgimgd3
+{
+    width: 100%;
+}
+.h2d3
+{
+    margin: 10px;
+    padding: 10px
+}
+.p1d3
+{
+    margin: 10px;
+    padding: 10px
+}
+.p2d3
+{
+    margin: 10px;
+    padding: 10px
+}
+.clear2
+{
+    clear: both;
+}
+/*  */
+.four
+{
+    overflow: auto;
+    margin: 40px;
+    padding: 40px;
+}
+.four
+{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+p , ul
+{
+    color: gray;
+
+}
+.d4
+{
+    width: 30%;
+    float: left;
+    margin: 10px;
+}
+.img
+{
+    width: 100%;
+}
+.d5clear
+{
+    clear: both;
+}
+/*  */
+.five
+{
+    text-align: center;
+    overflow: auto;
+    padding: 40px;
+    background-color: #eee;
+}
+.uld5
+{
+    text-align: start;
+}
+.d5content
+{
+float: left;
+width: 40%;
+margin: 20px;
+padding: 20px;
+}
+.map
+{
+    float: left;
+    width: 40%;
+    margin: 20px;
+    padding: 20px;
+}
+.cleard5
+{
+    clear: both;
+}
+/*  */
+.six
+{
+    background-color: rgb(32, 31, 31);
+    overflow: auto;
+    padding: 30px 0;
+    margin: 0;
+
+}
+.six h2
+{
+    text-align: center;
+    color: white;
+}
+.six div
+{
+    float: left;
+    width: 20%;
+    padding: 20px;
+}
+a
+{
+    color: grey;
+}
+.six li
+{
+    border-bottom: solid black 1px ;
+    padding: 2px;
+    list-style: none;
+}
+a
+{
+    text-decoration: none;
+}
+a:hover
+{
+    color: white;
+}
+.cleard6
+{
+    clear: both;
+}
+/*  */
+.seven
+{
+    overflow: auto;
+    background-color: rgb(17, 16, 16);
+    text-align: center;
+    padding: 30px;
+}
+.a
+{
+    padding: 2px;
+}
